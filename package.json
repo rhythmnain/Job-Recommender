@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@nlpjs/basic": "^5.0.0-alpha.5",
+    "aws-sdk": "^2.1692.0",
+    "natural": "^8.0.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
