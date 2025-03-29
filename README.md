@@ -66,6 +66,7 @@ job-recommender/
 │   ├── model.py                 # NLP model to extract skills
 │   ├── preprocess.py            # Preprocessing of resumes
 │   ├── requirements.txt         # Python dependencies
+│   ├── sample_resume.pdf        # sample resume file
 │
 │── README.md                     # Project documentation
 │── .gitignore                     # Ignore unnecessary files
