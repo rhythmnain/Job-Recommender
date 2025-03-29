@@ -3,12 +3,15 @@
 ## 📌 Project Overview
 The **Job Recommender ML Model** is a machine learning-based web application that helps freshers and new graduates find suitable job recommendations based on their resumes. The system extracts skills from uploaded resumes and matches them with relevant job listings.
 
+
 ## 🚀 Features
 - Extracts text from PDF resumes.
 - Cleans and preprocesses resume text.
 - Identifies relevant skills using **SpaCy** and **NLTK**.
 - Matches extracted skills against a predefined database of skills.
 - Can be integrated into a larger job-matching system.
+
+
 
 ## 📂 Project Structure
 ```
@@ -100,6 +103,7 @@ python model.py
 3. Extracted skills will be printed on the console.
 
 ## 🏗️ Technologies Used
+
 **Backend:**
 
 **Node.js** (Express.js for API handling)
@@ -110,13 +114,17 @@ python model.py
 
 **AWS S3** (For storing resumes)
 
+
 **Machine Learning:**
+
 
 **Python** (For NLP and skill extraction)
 
 **SpaCy & NLTK** (Text preprocessing & entity recognition)
 
 **PyPDF2** (PDF text extraction)
+
+
 
 ## 🎯 Future Enhancements
 
@@ -127,12 +135,16 @@ python model.py
 -🔍 Advanced Job Matching Algorithm: Improve accuracy using ML & deep learning.
 
 
+
 **Usage**
+
+
 Run the backend server.
 
 Process resumes using model.py.
 
 Call the API to fetch job recommendations.
+
 
 
 ## 🤝 Contributing
