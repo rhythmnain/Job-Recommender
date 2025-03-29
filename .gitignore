@@ -31,3 +31,12 @@ ML-model/*.pyc
 
 # VS Code settings
 .vscode/
+
+
+# Ignore virtual environment  
+venv/  
+__pycache__/  
+*.pyc  
+*.pyo  
+*.pyd  
+.env  
