@@ -41,6 +41,7 @@ job-recommender/
 │   │   ├── errorHandler.js     # Error handling middleware
 │   ├── utils/                  # Helper functions
 │   │   ├── responseHelper.js   # Standardize API responses
+│   │   ├── skillsList.js       # skill set file
 │   ├── server.js               # Main Express server file
 │   ├── package.json            # Backend dependencies
 │   ├── .env                    # Environment variables (DB URI, AWS keys)
